@@ -1,3 +1,1 @@
-<h1> proc42 </h1>
-**Proc42** is a versatile PHP library designed to streamline backend development by offering a suite of utilities for process management, task automation, and system interactions. With features like parallel process execution, job queues, and real-time monitoring, Proc42 simplifies complex workflows while maintaining performance. Its lightweight design and intuitive API make it ideal for developers handling batch processing, cron jobs, or microservices. Open-source and extensible, Proc42 integrates seamlessly into existing PHP projects, reducing boilerplate code and improving efficiency.
-
+# proc42
